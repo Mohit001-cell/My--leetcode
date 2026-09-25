@@ -42,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1544-make-the-string-great](https://github.com/Mohit001-cell/My--leetcode/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohit001-cell/My--leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/Mohit001-cell/My--leetcode/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
