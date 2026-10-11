@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohit001-cell/My--leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Mohit001-cell/My--leetcode/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Mohit001-cell/My--leetcode/tree/master/0041-first-missing-positive) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohit001-cell/My--leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
